@@ -1,0 +1,59 @@
+Section 2:
+http://latentflip.com/loupe/?code=ZnVuY3Rpb24gcHJpbnRIZWxsbygpIHsNCiAgICBjb25zb2xlLmxvZygnSGVsbG8gZnJvbSBiYXonKTsNCn0NCg0KZnVuY3Rpb24gYmF6KCkgew0KICAgIHNldFRpbWVvdXQocHJpbnRIZWxsbywgMzAwMCk7DQp9DQoNCmZ1bmN0aW9uIGJhcigpIHsNCiAgICBiYXooKTsNCn0NCg0KZnVuY3Rpb24gZm9vKCkgew0KICAgIGJhcigpOw0KfQ0KDQpmb28oKTs%3D!!!PGJ1dHRvbj5DbGljayBtZSE8L2J1dHRvbj4%3D
+https://zerotomastery.io/blog/?tag=WDM
+https://zerotomastery.io/cheatsheets/javascript-cheatsheet-the-advanced-concepts
+
+Section 3:
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/arguments
+https://repl.it/@aneagoie/functions-and-arguments#main.js
+https://repl.it/@aneagoie/Variable-Environment
+https://repl.it/@aneagoie/Scope-Chain
+https://repl.it/@aneagoie/JS-is-Weird
+https://repl.it/@aneagoie/Block-Scope-vs-Function-Scope
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode
+https://repl.it/@aneagoie/this
+https://repl.it/@aneagoie/dynamic-scope
+https://repl.it/@aneagoie/call-apply-bind
+https://repl.it/@aneagoie/bind-again
+https://repl.it/@aneagoie/this-keyword-exercise
+https://repl.it/@aneagoie/this-exe-3#main.js
+
+Section 4:
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects
+https://repl.it/@aneagoie/pass-by-reference
+https://repl.it/@aneagoie/reference-exe
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Equality_comparisons_and_sameness
+https://dorey.github.io/JavaScript-Equality-Table/
+https://www.ecma-international.org/ecma-262/5.1/#sec-11.9.3
+
+Section 5:
+https://repl.it/@aneagoie/HOF
+https://repl.it/@aneagoie/HOF-exercise
+https://repl.it/@aneagoie/HOF-solution
+https://repl.it/@aneagoie/closures
+https://repl.it/@aneagoie/closures-exercise
+https://repl.it/@aneagoie/closures-exercise-2
+https://repl.it/@aneagoie/closures-exercise-3
+https://repl.it/@aneagoie/closures-exercise-4
+https://repl.it/@aneagoie/closures-exercise-5#main.js
+https://repl.it/@aneagoie/closures-exercise-6
+https://repl.it/@aneagoie/closures-exercise-7
+https://repl.it/@aneagoie/proto#main.js
+https://repl.it/@aneagoie/proto-1
+https://repl.it/@aneagoie/proto-2
+https://repl.it/@aneagoie/proto-3
+https://repl.it/@aneagoie/proto-4
+https://repl.it/@aneagoie/this-exe-1
+
+Section 6:
+https://repl.it/@aneagoie/OOP
+https://repl.it/@aneagoie/OOP-1
+https://repl.it/@aneagoie/OOP-2
+https://repl.it/@aneagoie/OOP-3
+https://repl.it/@aneagoie/OOP-4
+https://repl.it/@aneagoie/OOP-5
+https://repl.it/@aneagoie/OOP-5#main.js
+https://repl.it/@aneagoie/OOP-exercise#main.js
+https://repl.it/@aneagoie/OOP-6#main.js
+
+
