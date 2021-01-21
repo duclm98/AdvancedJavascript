@@ -56,4 +56,19 @@ https://repl.it/@aneagoie/OOP-5#main.js
 https://repl.it/@aneagoie/OOP-exercise#main.js
 https://repl.it/@aneagoie/OOP-6#main.js
 
+Section 7:
+https://repl.it/@aneagoie/FP
+https://repl.it/@aneagoie/FP-1
+https://repl.it/@aneagoie/FP-2
+https://repl.it/@aneagoie/FP-3
+https://medium.com/@dtinth/immutable-js-persistent-data-structures-and-structural-sharing-6d163fbd73d2
+https://repl.it/@aneagoie/FP-4
+https://repl.it/@aneagoie/FP-5
+https://repl.it/@aneagoie/FP-6
+https://repl.it/@aneagoie/FP-7
+https://repl.it/@aneagoie/Dynamic-Programming
+https://repl.it/@aneagoie/FP-8
+https://repl.it/@aneagoie/FP-9
+
+
 
